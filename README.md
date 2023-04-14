@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiagoperoni" alt="hiagoperoni" /></a> </p>
 
-- 🌱 I’m currently learning **Python e Java**
+- 🌱 Atualmente estou estudando **Python e Java**
 
-- 👨‍💻 All of my projects are available at [https://hiagoperoni.netlify.app/](https://hiagoperoni.netlify.app/)
+- 👨‍💻 Todos os meus projetos estão no [https://hiagoperoni.netlify.app/](https://hiagoperoni.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript e ReactJS**
+- 💬 Posso falar muito sobre **HTML, CSS, JavaScript e ReactJS**
 
-- 📫 How to reach me **hiagoperonip@gmail.com**
+- 📫 Você consegue contato comigo no e-mail **hiagoperonip@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hiago-peroni/](https://www.linkedin.com/in/hiago-peroni/)
+- 📄 Minhas stacks e experiências [https://www.linkedin.com/in/hiago-peroni/](https://www.linkedin.com/in/hiago-peroni/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
