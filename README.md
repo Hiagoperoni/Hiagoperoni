@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiagoperoni" alt="hiagoperoni" /></a> </p>
 
-- 🌱 Atualmente estou estudando **Python e Java**
+- 🌱 Atualmente estou estudando **GOLANG** e faço Análise e Desenvolvimento de Sistemas!
 
 - 👨‍💻 Todos os meus projetos estão no [https://hiagoperoni.netlify.app/](https://hiagoperoni.netlify.app/)
 
-- 💬 Posso falar muito sobre **HTML, CSS, JavaScript e ReactJS**
+- 💬 Posso falar muito sobre **HTML, CSS, JavaScript, TypeScript, ReactJS, VueJS e NodeJS**
 
 - 📫 Você consegue contato comigo no e-mail **hiagoperonip@gmail.com**
 
